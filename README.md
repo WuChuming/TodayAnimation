@@ -4,7 +4,7 @@
 **TodayAnimation** is a  push/pop transition animation which is simillar to APPStore's effect! It is a category class and easy to be used! 
 
 **TodayAnimation**是类似于APPStore效果的push/pop转场动画！它是一个类别类，易于使用！
-## Effect
+## Effect (gif loading....)
 ![image](https://github.com/WuChuming/TodayAnimation/blob/master/480Demo.gif)   
 
 ## Install steps
