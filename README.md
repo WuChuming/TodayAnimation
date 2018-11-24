@@ -5,7 +5,7 @@
 
 **TodayAnimation**是类似于APPStore效果的push/pop转场动画！它是一个类别类，易于使用！
 ## Effect
-![image](https://github.com/WuChuming/TodayAnimation/blob/master/demo480GIF.gif)   
+![image](https://github.com/WuChuming/TodayAnimation/blob/master/480Demo.gif)   
 
 ## Install steps
 **1.** Drop files in a floder called CustomAnimation into your project。
